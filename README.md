@@ -10,8 +10,8 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 ## Student Info - MUST BE COMPLETED
 
-Preferred Name:
+Preferred Name: Kaymora Roberts
 
-Discord username:
+Discord username: KaymoraRoberts#9360
 
-REPL url:
+REPL url: https://replit.com/@KaymoraRoberts1
