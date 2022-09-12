@@ -9,6 +9,7 @@ my_turtle.color("purple")
 
 length = 50
 angle = 90
+sides = 4
 
 my_turtle.forward(length)
 my_turtle.left(angle)
@@ -16,6 +17,7 @@ my_turtle.left(angle)
 my_turtle.forward(length)
 my_turtle.left(angle)
 
+my_turtle.up()
 my_turtle.forward(length)
 my_turtle.left(angle)
 
