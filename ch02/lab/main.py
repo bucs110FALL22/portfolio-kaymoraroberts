@@ -1,3 +1,5 @@
+# Online Python - IDE, Editor, Compiler, Interpreter
+
 import random
  
 #Part A
@@ -19,7 +21,7 @@ cost_per_week = ((tuition / classes) / weeks)
 print(cost_per_week, type(cost_per_week))
 
 
-
+cost_per_class = (cost_per_week / 5 )
 print('Your cost per class is', cost_per_class)
 
 
