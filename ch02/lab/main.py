@@ -20,7 +20,7 @@ print(cost_per_week, type(cost_per_week))
 
 
 
-print('Your cost per class is' cost_per_class)
+print('Your cost per class is', cost_per_class)
 
 
 #Part B
