@@ -18,7 +18,7 @@ For each one below you should have a basic description of a program idea, a coup
 
 ## Project Idea 1
 
-< add your idea here >
+< A website that allows users to visit a restaurant or cafe before   1``  `  >
 
 ## Project Idea 2
 
