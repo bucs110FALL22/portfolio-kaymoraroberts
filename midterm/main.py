@@ -1,3 +1,4 @@
+
 # CS110 MIDTERM EXAM
 
 ## My program draws a sun-like star. It is outled in red and filled in blue. 
