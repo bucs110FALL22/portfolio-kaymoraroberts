@@ -7,6 +7,14 @@
         "version": 3,
         "index": 513
       }
+    ],
+    "ch07/exercises/animalrescue.py": [
+      {
+        "id": "a6a05898-1759-45ef-91dc-9e6c087fa26d",
+        "line": 1,
+        "version": 4,
+        "index": 0
+      }
     ]
   }
 }
