@@ -6,4 +6,4 @@ class Surface:
     #self.image = 
 
   def getRect(self):
-    return self.rect
+    return self.rec
